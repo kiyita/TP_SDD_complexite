@@ -1,0 +1,7 @@
+Temps de chargement de 10000 elements dans Tree : (s:ms:us) 0:3:33
+Moyenne opérations élémentaires pour 50 recherches : 1.00
+Temps cumulé pour 50 recherches : (s:ms:us) 0:0:3
+Nb total d'opérations élémentaires : 50
+Moyenne opérations élémentaires : 1.00
+
+Avant de quitter
